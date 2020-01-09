@@ -1,0 +1,32 @@
+.navbar {
+	background: rgba(100,100,100,0.97);
+	margin: 0;
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navbar ul {
+	margin: 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+.navbar li {
+	margin: 15px 10px;
+	font-size: 20px;
+	list-style: none;
+	font-weight: bold;
+	color: rgb(230,100,50);
+}
+
+.navbar .btn-grey {
+	background: rgba(100,100,100,0);
+	color: rgb(230,100,50);
+}
+
+.navbar .btn-grey:hover {
+	background: grey;
+}

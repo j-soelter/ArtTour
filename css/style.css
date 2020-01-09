@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Girassol|Lora:400,700|Roboto:300,400,700&display=swap");
+
+@import url("components/container.css");
+@import url("components/btn-grey.css");
+@import url("components/banner.css");
+@import url("components/card-horizontal.css");
+@import url("components/card-vertical.css");
+@import url("components/card-grid.css");
+@import url("components/navbar.css");
+@import url("components/banner-credit.css");
+@import url("components/logo.css");
+
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	color: rgb(230,100,50);
+}
+
+a{
+	text-decoration: none;
+}
